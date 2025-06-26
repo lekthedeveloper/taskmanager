@@ -1,7 +1,7 @@
 # 📱 Taskes - Beautiful Task Management App
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Taskes App Banner" width="100%" height="300" style="object-fit: cover; border-radius: 10px;">
+ 
   
   <h3>A modern, beautiful, and intuitive task management application built with React Native and Expo</h3>
   
@@ -60,9 +60,9 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Login Screen" width="200" style="margin: 10px; border-radius: 10px;">
-  <img src="https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Tasks Screen" width="200" style="margin: 10px; border-radius: 10px;">
-  <img src="https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Profile Screen" width="200" style="margin: 10px; border-radius: 10px;">
+<img src="https://i.ibb.co/Y4XTVGHW/Selected-June-26-2025-09-27-08.jpg" alt="Selected-June-26-2025-09-27-08" border="0">
+<img src="https://i.ibb.co/pvDBBPH5/Selected-June-26-2025-09-30-08.jpg" alt="Selected-June-26-2025-09-30-08" border="0">
+<img src="https://i.ibb.co/vvskNw5X/Selected-June-26-2025-09-31-44.jpg" alt="Selected-June-26-2025-09-31-44" border="0">
 </div>
 
 ## 🚀 Getting Started
@@ -282,46 +282,3 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 }
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow TypeScript best practices
-- Use meaningful commit messages
-- Add comments for complex logic
-- Test on both iOS and Android
-- Ensure responsive design
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Expo Team** - For the amazing development platform
-- **Supabase Team** - For the powerful backend-as-a-service
-- **React Native Community** - For the excellent ecosystem
-- **Lucide Icons** - For the beautiful icon library
-- **Pexels** - For the stunning stock photos
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- 📧 Email: support@taskes-app.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/taskes-app/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/taskes-app/discussions)
-
----
-
-<div align="center">
-  <p>Made with ❤️ by the Taskes Team</p>
-  <p>⭐ Star this repo if you found it helpful!</p>
-</div>
